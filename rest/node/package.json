@@ -1,0 +1,11 @@
+{
+  "name": "node-reviso-example",
+  "version": "1.0.0",
+  "description": "Example of how to work with the Reviso REST API from Node.js",
+  "main": "index.js",
+  "author": "Reviso International ApS",
+  "license": "MIT",
+  "dependencies": {
+    "reviso": "^1.0.0"
+  }
+}
