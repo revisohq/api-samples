@@ -1,0 +1,11 @@
+{
+  "name": "reviso-soap-node",
+  "version": "1.0.0",
+  "description": "Reviso SOAP API examples",
+  "author": "Reviso International ApS",
+  "license": "MIT",
+  "dependencies": {
+    "soap": "^0.11.0",
+    "soap-cookie": "^0.10.1"
+  }
+}
