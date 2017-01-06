@@ -1,6 +1,18 @@
 # Reviso API Samples
 
-This repository contains simple code samples demonstrating how to work with the Reviso public APIs.
+This repository contains simple code samples in various languages demonstrating how to work with the Reviso public APIs.
+
+## REST
+
+ - [Node.js](https://github.com/revisohq/api-samples/tree/master/rest/node)
+ - [curl](https://github.com/revisohq/api-samples/tree/master/rest/curl)
+ - [Microsoft Power BI](https://github.com/revisohq/api-samples/tree/master/rest/powerbi)
+ - [Microsoft Excel](https://github.com/revisohq/api-samples/tree/master/rest/excel)
+ 
+## SOAP
+
+ - [Node.js](https://github.com/revisohq/api-samples/tree/master/soap/node)
+ - [PHP](https://github.com/revisohq/api-samples/tree/master/soap/php)
 
 ## Further reading
 
