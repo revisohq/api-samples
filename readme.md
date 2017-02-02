@@ -4,15 +4,19 @@ This repository contains simple code samples in various languages demonstrating 
 
 ## REST
 
- - [Node.js](https://github.com/revisohq/api-samples/tree/master/rest/node)
- - [curl](https://github.com/revisohq/api-samples/tree/master/rest/curl)
+ - [Get customers (curl)](https://github.com/revisohq/api-samples/blob/master/rest/curl/get-customers.sh)
+ - [Create customer (curl)](https://github.com/revisohq/api-samples/blob/master/rest/curl/create-customer.sh)
+ - [Get /self (Node.js)](https://github.com/revisohq/api-samples/tree/master/rest/node)
  - [Microsoft Power BI](https://github.com/revisohq/api-samples/tree/master/rest/powerbi)
  - [Microsoft Excel](https://github.com/revisohq/api-samples/tree/master/rest/excel)
- 
+
 ## SOAP
 
- - [Node.js](https://github.com/revisohq/api-samples/tree/master/soap/node)
- - [PHP](https://github.com/revisohq/api-samples/tree/master/soap/php)
+ - [Get daybook entries (Node.js)](https://github.com/revisohq/api-samples/blob/master/soap/node/get-cash-book-entries.js)
+ - [Create daybook entry (Node.js)](https://github.com/revisohq/api-samples/blob/master/soap/node/create-cash-book-entry.js)
+ - [Create invoice (Node.js)](https://github.com/revisohq/api-samples/blob/master/soap/node/create-invoice.js)
+ - [Get products (Node.js)](https://github.com/revisohq/api-samples/blob/master/soap/node/get-all-products.js)
+ - [Get customers (PHP)](https://github.com/revisohq/api-samples/tree/master/soap/php)
 
 ## Further reading
 
