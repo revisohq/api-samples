@@ -1,6 +1,6 @@
 # node.js
 
-Example of how to work with the Reviso REST API from Node.js.
+Examples of how to work with the Reviso REST API from Node.js.
 
 The code uses the [`reviso`](https://github.com/revisohq/node-reviso) module to connect to the API.
 
@@ -15,7 +15,7 @@ npm install
 2) Run script with tokens set as environment variables:
 
 ```
-AGREEMENT_GRANT_TOKEN=your-grant-token APP_SECRET_TOKEN=your-app-token node .
+AGREEMENT_GRANT_TOKEN=your-grant-token APP_SECRET_TOKEN=your-app-token node get-self.js
 ```
 
 ## Further reading

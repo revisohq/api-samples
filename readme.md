@@ -6,7 +6,8 @@ This repository contains simple code samples in various languages demonstrating 
 
  - [Get customers (curl)](https://github.com/revisohq/api-samples/blob/master/rest/curl/get-customers.sh)
  - [Create customer (curl)](https://github.com/revisohq/api-samples/blob/master/rest/curl/create-customer.sh)
- - [Get /self (Node.js)](https://github.com/revisohq/api-samples/tree/master/rest/node)
+ - [Get /self (Node.js)](https://github.com/revisohq/api-samples/tree/master/rest/node/get-self.js)
+  - [Update app setting (Node.js)](https://github.com/revisohq/api-samples/tree/master/rest/node/update-app-setting.js)
  - [Microsoft Power BI](https://github.com/revisohq/api-samples/tree/master/rest/powerbi)
  - [Microsoft Excel](https://github.com/revisohq/api-samples/tree/master/rest/excel)
 
