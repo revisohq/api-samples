@@ -20,6 +20,10 @@ This repository contains simple code samples in various languages demonstrating 
  - [Get products (Node.js)](https://github.com/revisohq/api-samples/blob/master/soap/node/get-all-products.js)
  - [Get customers (PHP)](https://github.com/revisohq/api-samples/tree/master/soap/php)
 
+## Grant Access
+
+ - [Automated grant access flow (.Net)](https://github.com/revisohq/api-samples/tree/master/grant-access)
+
 ## Further reading
 
 For a full introduction to the APIs please take a look at our [developer website](https://www.reviso.com/developer).

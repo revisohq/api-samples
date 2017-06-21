@@ -1,0 +1,4 @@
+﻿{
+  "AppSecretToken": "your_test_app_secret_token_goes_here",
+  "AppPublicToken": "your_test_app_public_token_goes_here"
+}
