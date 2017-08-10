@@ -18,6 +18,7 @@ This repository contains simple code samples in various languages demonstrating 
  - [Create daybook entry (Node.js)](https://github.com/revisohq/api-samples/blob/master/soap/node/create-cash-book-entry.js)
  - [Create invoice (Node.js)](https://github.com/revisohq/api-samples/blob/master/soap/node/create-invoice.js)
  - [Get products (Node.js)](https://github.com/revisohq/api-samples/blob/master/soap/node/get-all-products.js)
+ - [Get invoice pdf (Node.js)](https://github.com/revisohq/api-samples/blob/master/soap/node/get-invoice.js)
  - [Get customers (PHP)](https://github.com/revisohq/api-samples/tree/master/soap/php)
 
 ## Grant Access
