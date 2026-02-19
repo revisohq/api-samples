@@ -1,3 +1,4 @@
+⚠️ Archived and moved to [gitlab](https://biosphere.teamsystem.com/reviso/museum/api-samples)
 # Reviso API Samples
 
 This repository contains simple code samples in various languages demonstrating how to work with the Reviso public APIs.
